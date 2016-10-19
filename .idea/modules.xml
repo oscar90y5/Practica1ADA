@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practicaADA.iml" filepath="$PROJECT_DIR$/practicaADA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practicaADA2/practicaADA2.iml" filepath="$PROJECT_DIR$/../practicaADA2/practicaADA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pruebas/pruebas.iml" filepath="$PROJECT_DIR$/../pruebas/pruebas.iml" />
+    </modules>
+  </component>
+</project>
